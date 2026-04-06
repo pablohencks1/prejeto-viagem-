@@ -1,0 +1,76 @@
+.banner{
+    height: 700px;
+    width: 1800px; 
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    flex-direction: column;
+}
+.titulo-banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+h1{
+    font-size: 50px;
+}
+.orgcardizin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 224.34px;
+    height: 50px;
+    gap: 10px;
+}
+
+.btninvesivel{
+    width: 50px;
+    height: 50px;
+    border: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: baseline;
+    
+   
+
+   
+}
+
+.textocardizin{
+  color: black;
+  font-size: 16px;
+}
+
+.divmaior{
+    background-color: rgb(253, 253, 253);
+    width: 850px;
+    height: 80px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+}
+.btnsearch{
+    border-radius: 15px;
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+    margin: 10px;
+    background-color: #EB662B;
+    border: none;
+
+}
+.ppp{
+width: 200px;
+height: 200px;
+}
+
+.aberturaestrutura{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;}

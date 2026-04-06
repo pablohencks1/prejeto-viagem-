@@ -1,0 +1,14 @@
+<section class="why-chooose-container">
+<h2 class="main-title">{{ tituloPrincipal }}</h2>
+
+<div class="features-grid">
+    @for (item of diferencias; track item.titulo)
+     <div class="features-card">
+
+        <img [src]="item.icone" [alt]="item.titulo" class="feature-icon">
+
+    <h3 class="feature-title">{{item.titulo}}</h3>
+    <p class=""></p>
+</div>
+
+</section>
