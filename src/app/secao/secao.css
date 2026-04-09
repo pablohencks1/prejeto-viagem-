@@ -13,6 +13,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    color: black;
 
 }
 h1{
@@ -44,6 +45,15 @@ h1{
   color: black;
   font-size: 16px;
 }
+
+.whytamanho{
+ display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+}    
+
 
 .divmaior{
     background-color: rgb(253, 253, 253);
