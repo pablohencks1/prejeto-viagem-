@@ -1,7 +1,7 @@
 .banner{
     height: 700px;
     width: 1800px; 
-   
+   background-image: url("/icons/Section.png");
     display: flex;
     justify-content: center;
     align-items: center;
